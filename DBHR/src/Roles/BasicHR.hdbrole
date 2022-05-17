@@ -1,0 +1,12 @@
+{
+  "role": {
+    "name": "HRACCESS",
+    "schema_privileges": [
+      {
+        "privileges": [
+          "SELECT"
+        ]
+      }
+    ]
+  }
+}

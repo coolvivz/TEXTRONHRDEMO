@@ -1,0 +1,13 @@
+{
+  "role": {
+    "name": "SuperUserHR",
+    "schema_privileges": [
+      {
+        "privileges": [
+          "UNMASKED",
+          "SELECT"
+        ]
+      }
+    ]
+  }
+}
